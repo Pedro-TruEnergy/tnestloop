@@ -7,7 +7,7 @@
 							TEXAS										
 																	
 						Pricing Date:	"October 24, 2014"										
-																	
+																changes to files	
 	North Zone (Oncor)			Term (Months)						West Zone (AEP North & Oncor)			Term (Months)				
 		Start Date	Volume	12	24	36	48	60			Start Date	Volume	12	24	36	48	60
 	North Zone (Oncor)		"0 - 100,000 kWh"	¢ 5.74	¢ 5.84	¢ 5.94	¢ 6.00	¢ 6.08		West Zone (AEP North & Oncor)		"0 - 100,000 kWh"	¢ 6.35	¢ 6.41	¢ 6.47	¢ 6.53	¢ 6.61
